@@ -7,9 +7,9 @@ The exponential growth of social media has motivated people to express themselve
 date: 2009-10-01
 venue: '2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8919315/'
-citation: 'A. Yadav, A. Agarwal, and D. K. Vishwakarma,. &quot;XRA-Net Framework for Visual Sentiments Analysis.&quot; <i>2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM)</i>. 1(1).'
+<!-- citation: 'A. Yadav, A. Agarwal, and D. K. Vishwakarma,. &quot;XRA-Net Framework for Visual Sentiments Analysis.&quot; <i>2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM)</i>. 1(1).' -->
 ---
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/8919315/)
 
-Authors: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Authors: A. Yadav, A. Agarwal, and D. K. Vishwakarma. "XRA-Net Framework for Visual Sentiments Analysis." <i>2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM)</i>
