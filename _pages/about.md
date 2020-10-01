@@ -15,7 +15,7 @@ Hey! I am pursuing B.Tech in Information Technology from Delhi Technological Uni
 
 
 # Publications
-* Ayush Agarwal, M. Prasad. "Identification and Classification of Cyberbullying Posts: A Recurrent Neural Network Approach using Under-sampling and Class Weighting" accepted at The 27th International Conference on Neural Information Processing (ICONIP2020) [Code](https://github.com/sherlock42/Cyberbullying-Analysis)
+* Ayush Agarwal, A. Chivukula, M. Bhuyan, T. Jan, B. Narayan and M. Prasad,. "Identification and Classification of Cyberbullying Posts: A Recurrent Neural Network Approach using Under-sampling and Class Weighting" accepted at The 27th International Conference on Neural Information Processing (ICONIP2020) [Code](https://github.com/sherlock42/Cyberbullying-Analysis)
 * A. Kaur, Ayush Agarwal, M. Leekha, U. Chawla, N. Madaan, K. Kannan. ["Multidimensional Analysis of Trust in News
 Articles"](https://144.208.67.177/ojs/index.php/AAAI/article/view/7191) published at The 34th Conference of the Association for the Advancement of Artificial Intelligence: Student Abstract (AAAI 2020) [Code](https://github.com/sherlock42/NewsBiasDetection)
 * Ayush Agarwal Agarwal, A. Yadav, and D. K. Vishwakarma,. ["Multimodal Sentiment Analysis via RNN Variants"](https://ieeexplore.ieee.org/abstract/document/8885108/) published at The IEEE International Conference on Big Data, Cloud Computing, Data Science & Engineering (BCD 2019) [Code](https://github.com/sherlock42/Multimodal-Sentiment-Analysis)
