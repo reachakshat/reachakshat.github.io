@@ -20,8 +20,8 @@ Hey! I am pursuing B.Tech in Information Technology from Delhi Technological Uni
 * A. Kaur, M. Leekha, U. Chawla, Ayush Agarwal, M. Saxena, N. Madaan, K. Kanna, S. Mehta. "Multidimensional Analysis of Trust in News
 Articles" published at The 34th Conference of the Association for the Advancement of Artificial Intelligence: Student Abstract (AAAI 2020) [Publication](https://144.208.67.177/ojs/index.php/AAAI/article/view/7191) [Code](https://github.com/sherlock42/NewsBiasDetection)
 * Ayush Agarwal, A. Yadav, D. K. Vishwakarma. "Multimodal Sentiment Analysis via RNN Variants"] published at The IEEE International Conference on Big Data, Cloud Computing, Data Science & Engineering (BCD 2019) [Publication](https://ieeexplore.ieee.org/abstract/document/8885108/) [Code](https://github.com/sherlock42/Multimodal-Sentiment-Analysis)
-* A. Yadav, Ayush Agarwal, D. K. Vishwakarma. "XRA-Net framework for Visual Sentiments Analysis" published at The IEEE Fifth International Conference on Multimedia Big Data (BigMM 2019) [Publication] (https://ieeexplore.ieee.org/abstract/document/8919315/) [Code](https://github.com/sherlock42/Visual-Sentiment-Analysis-Research-Project)  
-* Ayush Agarwal, P. Meel,. "Stacked Bi-LSTM with Attention and Contextual BERT Embeddings for Text Credibility Analysis" under review, Springer Journal 
+* A. Yadav, Ayush Agarwal, D. K. Vishwakarma. "XRA-Net framework for Visual Sentiments Analysis" published at The IEEE Fifth International Conference on Multimedia Big Data (BigMM 2019) [Publication](https://ieeexplore.ieee.org/abstract/document/8919315/) [Code](https://github.com/sherlock42/Visual-Sentiment-Analysis-Research-Project)  
+* Ayush Agarwal, P. Meel. "Stacked Bi-LSTM with Attention and Contextual BERT Embeddings for Text Credibility Analysis" under review, Springer Journal 
 
 
 # Research Projects
