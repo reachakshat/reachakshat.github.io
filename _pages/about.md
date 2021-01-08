@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I am pursuing B.Tech in Information Technology from Delhi Technological University. I have been working as a researcher for more than 2 years in the field of Natural Language Processing, particularly in the areas of Sentiment and Hate Speech Analysis in Social Media, Trust and Bias Analysis in News, and Low Resource Language Processing and have  published some of my work in peer-reviewed conferences and journals as well . I have had the opportunity to intern at IBM Research Labs, National University of Singapore, University of Technology Sydney and Delhi Technological University as a researcher in the field of NLP.
+Hey! I am pursuing B.Tech in Information Technology from Delhi Technological University. I have been working as an undergrad researcher in the field of Natural Language Processing in the areas of multimodal sentiment analysis, trust and bias analysis, privacy protection and explainable systems, detecting web toxicity, and low resource NLP. I have published my work in several peer-reviewed conferences including AAAI, IEEE, and ICONIP. I have worked as an intern at IBM Research Labs, National University of Singapore, University of Technology Sydney, and Delhi Technological University as a researcher in the field of NLP.
 
 
 # [My CV]({{ base_path }}/files/Ayush_CV.pdf)
