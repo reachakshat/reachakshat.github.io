@@ -11,7 +11,7 @@ redirect_from:
 Hey! This is Akshat. I am known by many names but the this is the one by which you those who know me do. I am adept in all that exists in this universe and anything beyond.
 
 
-# [My CV]({{ base_path }}/files/Ayush_CV.pdf)
+# [My Resume]({{ base_path }}/files/Akshat_Resume.pdf)
 
 # Awards
 * Lorem Ipsum [Certificate](https://link.springer.com/chapter/10.1007/978-3-030-63823-8_14)
