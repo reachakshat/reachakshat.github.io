@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ayush Agarwal"
+title                    : "Akshat Garg"
 title_separator          : "-"
-name                     : &name "Ayush Agarwal"
+name                     : &name "Akshat Garg"
 description              : &description "personal description"
-url                      : https://sherlock42.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://reachakshat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sherlock42/sherlock42.github.io"
+repository               : "reachakshat/reachakshat.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ayush Agarwal"
-  avatar           : "Ayush Agarwal.jpg"
-  bio              : "Undergrad NLP Researcher"
-  location         : "India"
+  name             : "Akshat Garg"
+  avatar           : "akshat.jpg"
+  bio              : "Primary School Student"
+  location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=P34iVoYAAAAJ"
-  email            : "ayush286@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Ayush_Agarwal46"
+  googlescholar    : #""
+  email            : "akshat_garg@edgefieldps.edu.sg"
+  researchgate     : #""
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sherlock42"
+  github           : #""
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ayush286/"
+  linkedin         : #""
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
