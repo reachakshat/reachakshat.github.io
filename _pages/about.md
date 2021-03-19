@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! This is Akshat. I am known by many names but the this is the one by which you those who know me do. I am adept in all that exists in this universe and anything beyond.
+Hey! This is Akshat. I'm currently a primary class student at Edgefield Primary School. My interests are Maths and Science. I love to read books, and I'm an avid fan of Stephen King. I'm currently working on building fully functioning cross platform projects using Python and Javascript. Do reach out to me if you would like to know more about me or my work, I would love to discuss about them with you.
 
 
 # [My Resume]({{ base_path }}/files/Akshat_Resume.pdf)
